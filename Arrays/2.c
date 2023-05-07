@@ -12,5 +12,4 @@ int main(){
         printf("[%.2f]",Vet[i]);
     }
     return 0;
-
 }
